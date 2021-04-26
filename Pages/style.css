@@ -1,0 +1,226 @@
+@media only screen and (max-width: 565px) {
+
+   .img-squ-2 {
+       background-image: url(../Fereydoon/Fereydoon-Songs/Niaz/Niaz-Fereydoon-cover-square.jpg);
+    }
+   .img-squ-3 {
+       background-image: url(../Fereydoon/Fereydoon-Songs/Zendoone-Del/Zendoone-Del-Fereydoon-cover-square.jpg);
+    }
+  }
+  .top-tabs {
+      padding-right: 0%;
+      margin-top: 1%;
+      list-style-type: none;
+  }
+.names-tab {
+    margin: 0.5% 2%;
+}
+
+.body-back-1 {
+    background-image: url(Back-img/sky-img.jpg);
+    font-family:Behdad-Regular;
+}
+
+.body-back-2 {
+    background-image: url(Back-img/sky-img-over.jpg);
+}
+.a-text {
+    color: rgb(255, 255, 255);
+    font-family:Behdad-Regular;
+    font-size: large;
+    text-decoration: none;
+}
+.a-text:hover {
+    text-decoration: none;
+    color: rgb(153, 153, 153);
+    text-shadow: 2px 2px 5px rgb(194, 194, 194);
+}
+.main-img {
+    width: 100%;
+    padding: 1%
+}
+.main-img:hover {
+    opacity: 80%;
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.39);
+}
+
+.main-page-row {
+    margin-top: 1%;
+}
+.pics-margin {
+    margin: 1%;
+}
+
+@font-face {
+    font-family: Behdad-Regular;
+    src: url(Behdad-0.0.3/Behdad-Regular.ttf);
+  }
+
+.down-text {
+    color: rgb(255, 255, 255);
+    margin-top: 2%;
+    font-family:Behdad-Regular;
+}
+.nav-st {
+    margin-top: 1%;
+    padding-right: 0%;
+    margin-bottom: 0.5%;
+}
+.main-nav-tabs {
+    width: 10px;
+}
+
+.about-part {
+    margin-top: 6%;
+    margin-bottom: 6%;
+    border-top: 1px solid rgba(128, 128, 128, 0.514);
+    border-bottom: 1px solid rgba(128, 128, 128, 0.514);
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 1%;
+    padding-left: 1%;
+}
+
+.text-ali {
+    text-align: center;
+    font-family:Behdad-Regular;
+}
+
+.card-pad {
+    padding: 0%;
+}
+.about-text {
+    text-align: right;
+    margin-top: 3%;
+    font-family:Behdad-Regular;
+}
+
+.songs-img {
+    width: 100%;
+    transition: all 0.2s;
+}
+
+.title-marging {
+    text-align: center;
+    margin-bottom: 5%;
+    margin-right: 3%;
+}
+.card-title {
+    text-align: center;
+}
+.card {
+    background-color: rgba(224, 224, 224, 0.164);
+    border: 0cm;
+}
+.card-body {
+    padding: 0.125em;
+}
+.a-link {
+    color: rgb(49, 49, 49);
+    transition: all 0.2s;
+
+}
+.a-link:hover {
+    color: rgb(97, 97, 97);
+    text-decoration: none;
+    opacity: 90%;
+}
+.songs-img:hover {
+    box-shadow: 2px 2px 10px rgb(56, 56, 56);
+}
+
+.songs-box {
+    padding: 1%;
+}
+
+.footer-class {
+    width: 100%;
+    margin-top: 4%;
+    padding: 1%;
+    border-top: 1px solid gray;
+    font-family:Behdad-Regular;
+
+
+}
+.footer-text {
+    text-align: center;
+    font-size: large;
+}
+
+.bb {
+    margin: 4%;
+}
+
+.Song-Box {
+    margin-top: 3%;
+    margin-bottom: 3%;
+    padding: 3%;
+    border: 0.5px solid gray;
+    border-radius: 15px;
+    /* background-color: rgba(250, 235, 215, 0.103); */
+    background-image: url(../Pages/Back-img/Song-box-back.png);
+    ba
+}
+.song-title {
+    margin-bottom: 2%;
+    font-style:inherit;
+    text-align: center;
+}
+.information-box {
+    margin-top: 5%;
+}
+.info-margin {
+    border-bottom: 0.25px solid gray;
+    padding-bottom: 3.1%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+.cover-rad {
+    border: 1px solid rgba(202, 202, 202, 0.253);
+    border-radius: 10px;
+}
+.song-cover-box {
+    margin: 0%;
+}
+.music-audio {
+    width: 100%;
+    outline: none;
+}
+.music-box {
+    margin-top: 4%;
+}
+.song-lyric-box {
+    margin-top: 5%;
+}
+.song-lyric {
+    text-align: center;
+    font-family:Behdad-Regular;
+
+}
+
+.about-site-text {
+    text-align:right;
+    font-family:Behdad-Regular;
+    padding: 3%;
+    line-height: 200%;
+
+}
+.about_this_song {
+    font-family:Behdad-Regular;
+}
+.multi-version {
+    border-bottom: 1px solid gray;
+    /* border-radius: 5px; */
+    margin: 2%;
+    padding: 1%;
+}
+.artist-div {
+    margin-top: 4%;
+}
+
+.about-logo {
+    display: flex;
+    margin-bottom: 2%;
+    width: 5em;
+    margin: auto;
+}
